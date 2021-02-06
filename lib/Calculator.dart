@@ -96,7 +96,7 @@ class _SimpleCalculatorState extends State<SimpleCalculator> {
         backgroundColor: Colors.transparent,
         centerTitle: true,
         title: Text(
-          "Calcultor",
+          "Calculator",
         ),
       ),
       body: Column(
